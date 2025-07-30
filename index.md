@@ -3,33 +3,296 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+### 前言
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+	总是想要写点什么，这个想法从大一下开始已经持续好久了，却一直没有动静，一直能够找各种理由来推迟这项工作，大抵是懒的缘故吧。转念一想却又不是，百无聊赖得整天坐在工位上，实在是没有什么吸引我的事情好做，终究是敌不过热忱，侥幸打开笔记本草草开始。平日里每每提及要写一些报告或者日志，我早已经习惯了用ai来代替我工作了，今天终于是鼓起勇气计划着要自己写点什么。眼前的文字跳跃着，不安分的那种感觉又一次涌上心头，突然有种老友重逢的喜悦，随即想到我要写些什么，心又沉寂下来，我不知道未来会走向何方，我更不知道接下来的文字会影响哪些阳光朝气的少年的生命旅途。我很惶恐，但我一定是有勇气的，我要说些心里话，说些我认为的真话。如果影响不到他人，反而是一种解脱，毕竟我也是第一次上大学，凭什么就有权利教导乃至于干预别人的选择呢！我深知我没有，所以选择权都在读者（听众）手里。写下这些文字，对于我来说已经足够，其他的事情我绝不奢求。
+	我猜进入电子科技大学的主旋律还是学习为主吧。在我看来，学习是一件神圣的事情，学习能力是区分人和其他动物的重要标准之一。我学习，是因为我发自内心的热爱某些领域的科学知识，是对科学知识本身的好奇，对人类伟大精神的景仰，对我个人命运的尊重，而不是为了某些人的纪律，指标，甚至是屈从于教材或者课程组的“淫威”学习的。学习的动机有功利性本身并没有问题，通过习得技能来在社会中更好地生存与发展是再正常不过的事情罢了。有问题的是某些人，他们把教材和考试作为工具来禁锢他人的思想，以达到自己的目的。我对此深恶痛绝却无能为力，不过生命总会找到出路的。我觉得我找到了，我大学前两年的生活是令我满意的，现在我希望帮助其他人获得满意的大学生活，仅此而已。以下是我在电子科技大学学到的微不足道的东西。
+### 学校概况
 
-More specifically, the created site:
+#### 欢迎来到电子科技大学！！！
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+#### 衣
+#### 食
+#### 住
+#### 行
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+#### 学校的组织结构和对学生直接相关的机构
+### ==学会生存==
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+#### 社会主义市场经济
 
-To get started with creating a site, simply:
+中国社会的经济社会组成方式
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+社会主义+市场经济
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+社会主义的工作代表，市场经济的工作代表？
 
-----
+商品经济的本质是什么？资本主义的本质是什么？
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+为什么电气等国企行业工作相对轻松而报酬较高
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+为什么互联网，金融行业工作辛苦而报酬很高
+
+为什么体力劳动极为辛苦而报酬很低
+
+企业股份制改革与劳动人口的变化
+
+中国经济社会变迁，中等收入国家陷阱
+
+五年计划与改革开放，大学生的命运何去何从（日本经济倒退的40年）
+
+从苏联五年计划和余粮征集制看资本积累，究竟是谁的利益受到损害了
+历史发展的规律和必然性
+
+阶级斗争无处不在（马克思主义原理）
+
+#### 选择自己擅长的事情
+
+#### 拒绝完美思维，学会做出选择
+
+你总要放弃些什么，无论是主动还是被动，坚定做出选择（或者被选择），反思你的得失，不后悔发生过的事情，抓住你现在有的东西，沉没成本不在决策考虑范围内。
+
+#### 永远要思考
+
+”独立思考的重要性“
+
+>生存手册1.2失败的思维方式
+
+#### 没有人为你负责，只有你自己
+
+>参考资料 生存手册1.1
+
+#### 专业概况与相关工作
+
+==写在前面：不要认为选了某个专业就要从事某种工作，不要总是只考虑技术工作而忽视了其他工作，工作价值的本身是制度（在中国就是社会主义市场经济）所衡量的，而不是工作难度，工作时长，工作技术所决定的，这些只是相关的参考而已==
+
+
+
+#### 饲养方案
+
+漏洞极多，设计不合理，评分制度不合理，无视学生的反馈，为了改革而改革
+
+培养方案到底为谁服务？
+
+了解规则，利用规则，如果想要毕业一定要毕业
+
+>参考阅读：生存手册1.1 
+
+#### 转专业吗
+
+对于电子科技大学信通学院的学生来说，从往年经验来看，可能选择的转专业方向就只有英才学院和计算机学院。
+
+==但是，转专业就必须要承担转专业的风险，首先是培养方案和学分转化，这一点在不同学院是不同的，而且越早转专业受到的影响就越小，对于分数计算和保研方案不同的学院是不同的！！==
+
+
+#### 选课
+
+恶心的实验课，所有实验课都是垃圾，中国教育的耻辱，谈何工程素养
+
+绝对失败的实验手册，远远落后的实验设备，不要寄希望于能够通过实验课提高自己的工程素养
+
+老师是否点名，给分如何，讲课如何等等
+
+==推荐的老师不一定适合你，不要无脑冲，避雷的老师一定要慎重，问问为什么要避雷，最好能说清楚
+
+>参考阅读：生存手册3（这里和本校政策并不相同，仅供参考）
+
+
+#### 在成电谈钱
+
+挣钱前提：不要做违背道德和大多数人利益的事情，不要违法，不要危害正常的学校秩序等（倒卖资料等）
+
+勤工助学：几百到一千， 工作强度主要由岗位影响
+
+奖学金：国奖，优秀学生奖学金，企业奖学金等
+
+助学金：（不清楚）
+
+校外工作
+
+家教兼职：拒绝过低价，100r以上是正常报酬
+
+非技术类兼职：体力劳动 （不清楚）
+
+技术类兼职：外包公司等
+
+>参考阅读：生存手册1.4
+#### 升学与就业
+
+升学部分：
+
+- 博弈论课程中关于MBA学位的论述，企业需要更好的雇员，如何证明自己是一个更好的雇员
+- 研究生究竟是什么，硕士生是什么，学硕？专硕？ 博士生？直博生？普博生？工程硕博？
+- 为什么要继续读书？
+- 考研不是洪水猛兽，考研只是一场考试，和高考不同的一场考试
+- 考研之前了解清楚规则（潜规则），慎重报考外校
+- 考研过线才是刚刚开始，找导师是真正困难的考验
+- 留学？
+
+就业部分：
+
+- 工作是什么，有什么样的工作给大家选择，公司需要什么，学生能够提供什么
+- ==风口与机会，选择大于努力==   房地产，金融，互联网，游戏直播，直播带货，ai，医美 ......
+- 资本的游戏
+
+>参考资料：
+>英伟达股票两年内走势
+>生存手册2.1
+#### 谈外语
+
+基础差异，地区差异，个人差异
+四六级通过，优秀
+绝对无用的英语课
+考雅思，托福，GRE吗
+作为实用工具的英语，阅读，写作论文，查阅资料，生活娱乐 ，求职和工作，英语有用也无用
+除了英语以外，还要学习其他外语吗？
+
+### ==实用技巧（偷懒技巧）==
+
+#### 科学上网
+
+是否需要科学上网，科学上网的工具和原理，科学上网的法律法规
+
+clash 
+cloudflare
+shadowrocket（苹果用）
+v2ray（开源软件，github上面有源码）
+#### 用ai工作
+
+==到今天为止，LLM和其他的各类ai已经成为生活和工作中不可或缺的一部分，如果有人说不要用ai，那无疑是开历史的倒车。用好ai也许可能是上大学学到的最重要的事情吧！！！==
+
+（截止2025年夏）
+国产LLM：
+deepseek：国产之光，几乎是国产最好的大模型，能够几乎平替国外的模型 缺点：响应有时候不及时
+豆包：字节开发，和飞书等等都有综合，很不错的大模型，综合来说很优秀
+kimi ：长文输入，图片输入总得来说都不错，比前两个要差一点，也能用
+通义千问：好像挺强的，开源大模型，没太用
+文心一言：糟糕的大模型
+盘古：丢人现眼
+外国LLM：
+chatgpt：曾经的神，现在还是挺好用的，但是不如从前的，第一梯队，语音最强，多国语言实时回复可以打断，说中文稍微有点ai，说英文超级强
+Gemini：曾经拉胯，但是可以免费无限制上传图片，搜题，实时做题最强，好用的
+grok：代码最强之一，没啥其他缺点，新发布grok4，数学的神，不过太贵
+claude：代码最强之一，最大缺点是容易被封ip
+
+代码生成器：
+github Copilot：拯救我代码的神，不会了都问他，所有ide里面都加入这个插件，不充钱比别的充钱的都强，yyds
+Cursor：很出名，最擅长写python，没用过
+trae：听说一般，字节出品，起码能用吧
+
+
+
+#### 站在前人的肩膀上
+
+学会收集资料，不要总是想着单打独斗，使用别人的资料，听从别人的建议会让很多事情快很多
+
+>参考内容：QQ群里面的资料
+#### 上课
+
+无论如何，一定要搞清楚老师怎么给分，不要自己感动自己，做很多无用功。
+是否点名？如果抓到逃课会发生什么？翘课小妙招（doge）
+作业，作业要求纪律
+平时分怎么得（混）
+上课纪律？
+
+>生存手册1.6
+#### 速成的魅力
+
+我个人极为质疑本校绝大多数课程设立的初衷，可能“砖家”就是“砖家”吧，或者专家不想让你成为专家，想让你知难而退，毕竟在多次会议上学生都反应过这些问题。那么速成就派上用场了！
+==“为什么不找找自己的问题，工资涨了没涨。。。”==
+
+>参考视频：20小时学会任何技能TED演讲
+>生存手册3.3
+
+#### 选合适的组员
+
+小组任务的骗局 
+小组任务不变成个人任务简直是一种奇迹
+总会有种错觉自己在混或者在carry全组
+做之前想想这个任务应该怎么安排，20%的人做80%的工作
+提前组队报名某些需要小组合作的课程
+
+#### 报告（PPT）的魅力
+
+骗人的魔鬼
+得分利器
+展示自己的工作
+学做PPT？
+
+#### 打卡
+
+乐健体育的软件很容易破解，但是很多软件是通过wifi等方式进行辅助验证的，所以虚拟定位行不通
+开发者模式+虚拟定位可以打卡
+慎重使用跑圈
+#### 网页插件与脚本
+
+temparmonkey 脚本速刷
+选择合适的浏览器 edge chrome firefox
+domooc 秒杀所有中国大学mooc，满分利器
+成电mooc是我见过做的最差的mooc，没有之一
+
+#### 实验报告
+
+完全没有任何价值的垃圾，工作中的利器（也许吧）
+参考往年优秀报告
+多借鉴，想要得高分的话要和老师交流交流
+
+#### 学习没有捷径
+
+学习是没有捷径可言的，想要学会什么东西，掌握什么工具，需要付出切切实实的努力，不是动动嘴就能够实现的。
+### 个人感言（危险内容）
+
+#### 所有机构都不会把人当成人，物化人类早已成为普遍现象，无论是学校，企业等等，人是为xx服务的
+
+#### 知识的目的是来使用的，否则就大概率失去了最大的意义
+
+#### Less is more
+
+拒绝八爪鱼， less is more.
+
+#### 认清竞赛的真面目
+
+==为什么有的机构会举办比赛呢，站在赛事举办方的角度来思考问题==
+- 有含金量的比赛，对未来发展有价值的比赛
+- PPT大赛
+- 考试比赛
+
+#### 前景与规划
+
+在我个人的成长过程中，曾经有非常多的人讲过优秀的人的去向。可是随着我年龄的增长，我发现无一例外的是，故事从来都不完整，也许是故意为之吧，反正就是只讲和某一阶段最近的去向，而忽略了长期的故事。比如说，小学时会讲去了那个中学，初中会讲去了那个高中，高中会讲去了哪个大学，大学会讲去了哪个单位，挣了多少钱得了多少奖等等。但是故事的主人公总是在变化，故事从来都没有保持连贯客观性，一个人的成长和生活是要看长期的，也是收到长期影响的，所以故事都是不重要的，是讲故事的人有目的而已。重要的是某个人想要什么，得到什么。
+#### 简历
+
+==站在收到简历的老师，公司的角度来写简历==
+
+值得写的内容很多，待补充
+#### 危险的改革者（xsz，djs）
+
+糟糕的老师，自负的改革者，远远比摆烂的老师对于学生的威胁更大，有图有真相
+
+#### 勇气
+
+#### 失败
+
+#### 认清自己的能力
+
+
+### 参考文献
+
+- [上交生存手册链接](https://zengyincen.github.io/SurviveSJTUManual/) （此链接无需魔法上网）
+  https://github.com/SurviveSJTU/SurviveSJTUManual （原仓库，大概率需要魔法上网）
+ - [CS自学指南网页链接](https://csdiy.wiki/) 
+ - [20小时学会任何技能ted演讲](https://www.bilibili.com/video/BV144411b7Uk/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=b3104bd13c483f2a4e5fb282f6928db7)
+ - [B站乔布斯2005年斯坦福大学毕业演讲](https://www.bilibili.com/video/BV1dXQmYYEHA/?spm_id_from=333.337.search-card.all.click&vd_source=b3104bd13c483f2a4e5fb282f6928db7)
+ - [浙江大学课程共享计划](https://github.com/QSCTech/zju-icicles)
+ - [YPM中教育的服务对象](https://www.bilibili.com/video/BV19k4y1g7tq/?spm_id_from=333.1391.0.0) 
+ - [YPM中教育与就业](https://www.bilibili.com/video/BV1TE411A7rE/?spm_id_from=333.1391.0.0&vd_source=b3104bd13c483f2a4e5fb282f6928db7)
+ - [大学生预计毕业人数](https://www.bilibili.com/video/BV1HZKVzkELQ/?spm_id_from=333.1391.0.0&vd_source=b3104bd13c483f2a4e5fb282f6928db7)
+ - [台式电脑的3D动画](https://www.bilibili.com/video/BV12L41197Vu/?spm_id_from=333.1387.search.video_card.click&vd_source=b3104bd13c483f2a4e5fb282f6928db7)
+ - [生命会找到出路(侏罗纪公园)](https://www.bilibili.com/video/BV1LW411N7vu/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=b3104bd13c483f2a4e5fb282f6928db7)
+ - [eecs coursemap](https://hkn.eecs.berkeley.edu/courseguides)
+ - [计算机副教授举报大学生编程不如小学生](https://zhuanlan.zhihu.com/p/1905773368868865384)  
+ - [电子科技大学2025-2026人工智能专业排名](https://www.betteredu.net/universityranking/417.html)
+ - [电子科技大学2025新生指南(河畔)](https://bbs.uestc.edu.cn/forum.php?mod=viewthread&tid=2344547)
+ - [电子科技大学2024新生指南（飞书）](https://uestc.feishu.cn/docx/I9I9ddFptoYRvexYj3dcGNWXnZg?302from=wiki)
+ - [电兵学长的新生经验博客](https://yhblogs.cn/posts/20230901.html)
+初稿提笔于2025年7月8日，写完于2025年7月18日
