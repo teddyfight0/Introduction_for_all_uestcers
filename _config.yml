@@ -1,11 +1,11 @@
 title: Introduction_for_all_uestcers
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: A starter template for a Jekyll site using the Just the Docs theme!
 theme: just-the-docs
 
 # 关键修改点：根据仓库类型选择以下一种配置
 # --------------------------------------------
 # 如果是普通仓库（如 repo-name）：
-baseurl: "/repo-name"  # 必须与仓库名一致，开头有斜杠
+baseurl: "/Introduction_for_all_uestcers"  # 必须与仓库名一致，开头有斜杠
 url: "https://teddyfight0.github.io"  # 保持不变
 
 # 如果是个人主页仓库（teddyfight0.github.io）：
