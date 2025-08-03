@@ -2,19 +2,108 @@ title: Introduction_for_all_uestcers
 description: A starter template for a Jekyll site using the Just the Docs theme!
 theme: just-the-docs
 
-# 关键修改点：根据仓库类型选择以下一种配置
-# --------------------------------------------
-# 如果是普通仓库（如 repo-name）：
-baseurl: "/Introduction_for_all_uestcers"  # 必须与仓库名一致，开头有斜杠
-url: "https://teddyfight0.github.io"  # 保持不变
-
-# 如果是个人主页仓库（teddyfight0.github.io）：
-# baseurl: ""  # 留空
-# url: "https://teddyfight0.github.io"
-# --------------------------------------------
+# 仓库信息
+baseurl: "/Introduction_for_all_uestcers"  # 仓库名，斜杠开头
+url: "https://teddyfight0.github.io"  # 你的 GitHub Pages 域名
 
 plugins:
   - jekyll-seo-tag
+
+# 左侧导航栏配置
+# 你需要把每一章内容拆分成单独的 md 文件
+# 例如 preface.md, school.md, economy.md, major.md, study.md, ai.md, growth.md, reference.md
+# 每个 md 文件的顶部加上 front matter，例如
+# ---
+# title: 前言
+# nav_order: 1
+# ---
+
+# Just the Docs sidebar 配置
+nav:
+  - title: 前言
+    url: /preface
+  - title: 学校概况
+    url: /school
+    children:
+      - title: 衣食住行
+        url: /school#衣食住行
+      - title: 组织结构
+        url: /school#学校的组织结构和对学生直接相关的机构
+  - title: 学会生存
+    url: /economy
+    children:
+      - title: 社会主义市场经济
+        url: /economy#社会主义市场经济
+      - title: 商品经济与资本主义
+        url: /economy#商品经济的本质是什么
+      - title: 选择自己擅长的事情
+        url: /economy#选择自己擅长的事情
+      - title: 独立思考
+        url: /economy#独立思考的重要性
+  - title: 专业与工作
+    url: /major
+    children:
+      - title: 培养方案
+        url: /major#培养方案到底为谁服务
+      - title: 转专业
+        url: /major#转专业吗
+      - title: 选课
+        url: /major#选课
+  - title: 升学与就业
+    url: /study
+    children:
+      - title: 升学部分
+        url: /study#升学部分
+      - title: 就业部分
+        url: /study#就业部分
+  - title: 外语与技能
+    url: /ai
+    children:
+      - title: 英语及其他外语
+        url: /ai#谈外语
+      - title: 科学上网
+        url: /ai#科学上网
+      - title: 用ai工作
+        url: /ai#用ai工作
+      - title: 资料收集
+        url: /ai#站在前人的肩膀上
+  - title: 学习与成长
+    url: /growth
+    children:
+      - title: 上课
+        url: /growth#上课
+      - title: 速成的魅力
+        url: /growth#速成的魅力
+      - title: 选合适的组员
+        url: /growth#选合适的组员
+      - title: 报告的魅力
+        url: /growth#报告（PPT）的魅力
+      - title: 打卡
+        url: /growth#打卡
+      - title: 网页插件与脚本
+        url: /growth#网页插件与脚本
+      - title: 实验报告
+        url: /growth#实验报告
+      - title: 学习没有捷径
+        url: /growth#学习没有捷径
+      - title: 个人感言
+        url: /growth#个人感言（危险内容）
+      - title: 认清竞赛的真面目
+        url: /growth#认清竞赛的真面目
+      - title: 前景与规划
+        url: /growth#前景与规划
+      - title: 简历
+        url: /growth#简历
+      - title: 危险的改革者
+        url: /growth#危险的改革者（xsz，djs）
+      - title: 勇气
+        url: /growth#勇气
+      - title: 失败
+        url: /growth#失败
+      - title: 认清自己的能力
+        url: /growth#认清自己的能力
+  - title: 参考文献
+    url: /reference
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
