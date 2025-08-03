@@ -4,6 +4,13 @@ layout: page
 nav_order: 1
 ---
 
+### 前言
+
+
+> [!NOTE] Steve Jobs
+> We're here to put a dent in the universe. Otherwise why else even be here?
+> 活着就是为了改变世界，难道还有其他原因吗？
+
 
 
 总是想要写点什么，这个想法从大一下开始已经持续好久了，却一直没有动静，一直能够找各种理由来推迟这项工

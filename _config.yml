@@ -30,46 +30,33 @@ nav:
       - title: 组织结构
         url: /school#学校的组织结构和对学生直接相关的机构
   - title: 学会生存
-    url: /economy
+    url: /survive
     children:
       - title: 社会主义市场经济
         url: /economy#社会主义市场经济
       - title: 商品经济与资本主义
         url: /economy#商品经济的本质是什么
-      - title: 选择自己擅长的事情
-        url: /economy#选择自己擅长的事情
-      - title: 独立思考
-        url: /economy#独立思考的重要性
-  - title: 专业与工作
-    url: /major
-    children:
       - title: 培养方案
         url: /major#培养方案到底为谁服务
       - title: 转专业
         url: /major#转专业吗
       - title: 选课
         url: /major#选课
-  - title: 升学与就业
-    url: /study
-    children:
-      - title: 升学部分
-        url: /study#升学部分
-      - title: 就业部分
-        url: /study#就业部分
-  - title: 外语与技能
-    url: /ai
+      - title: 升学
+        url: /study#升学
+      - title: 勤工助学
+        url: /money#勤工助学
+  - title: 实用技能
+    url: /skills
     children:
       - title: 英语及其他外语
-        url: /ai#谈外语
+        url: /language#谈外语
       - title: 科学上网
         url: /ai#科学上网
       - title: 用ai工作
         url: /ai#用ai工作
       - title: 资料收集
-        url: /ai#站在前人的肩膀上
-  - title: 学习与成长
-    url: /growth
-    children:
+        url: /growth#站在前人的肩膀上
       - title: 上课
         url: /growth#上课
       - title: 速成的魅力
@@ -84,26 +71,26 @@ nav:
         url: /growth#网页插件与脚本
       - title: 实验报告
         url: /growth#实验报告
+  - title: 实用技能
+    url: /personaltalk
+    children:
       - title: 学习没有捷径
-        url: /growth#学习没有捷径
-      - title: 个人感言
-        url: /growth#个人感言（危险内容）
+        url: /personaltalk#学习没有捷径
       - title: 认清竞赛的真面目
-        url: /growth#认清竞赛的真面目
+        url: /personaltalk#认清竞赛的真面目
       - title: 前景与规划
-        url: /growth#前景与规划
+        url: /personaltalk#前景与规划
       - title: 简历
-        url: /growth#简历
+        url: /personaltalk#简历
       - title: 危险的改革者
-        url: /growth#危险的改革者（xsz，djs）
+        url: /personaltalk#危险的改革者（xsz，djs）
       - title: 勇气
-        url: /growth#勇气
+        url: /personaltalk#勇气
       - title: 失败
-        url: /growth#失败
+        url: /personaltalk#失败
       - title: 认清自己的能力
-        url: /growth#认清自己的能力
+        url: /personaltalk#认清自己的能力
   - title: 参考文献
     url: /reference
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
