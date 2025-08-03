@@ -1,5 +1,6 @@
 ---
 title: 前言
+layout: page
 nav_order: 1
 ---
 
